@@ -1,0 +1,4 @@
+,Damage,Montage,PlayRatio,CanMove,Sound,ShakeClass,Effect,EffectLocation,EffectScale,HitStop,Launch
+1,5,AnimMontage'/Game/Character/Montages/Common/HitReaction_Montage.HitReaction_Montage',1.5,FALSE,SoundWave'/Game/Sounds/S_HitPunch.S_HitPunch',,,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)",0.07,0
+2,10,AnimMontage'/Game/Character/Montages/Common/HitReaction_Montage.HitReaction_Montage',1.5,FALSE,SoundWave'/Game/Sounds/S_HitPunch.S_HitPunch',,,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)",0.09,100
+3,15,AnimMontage'/Game/Character/Montages/Common/HitReaction_Montage.HitReaction_Montage',1.5,FALSE,SoundWave'/Game/Sounds/S_HitPunch.S_HitPunch',Blueprint'/Game/Weapons/Fist/CS_Fist.CS_Fist_C',,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)",0.12,600
