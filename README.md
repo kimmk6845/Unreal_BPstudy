@@ -3,6 +3,7 @@
 * 활용 애셋
   - StartContent
   - InfinityBladeEffects
+  - AdvancedMagicFX12
 
 ### 2022
 
