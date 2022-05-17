@@ -17,3 +17,4 @@
 - 05.11 : Bow 모드 - 화살 발사 구현 완료
 - 05.12 : Bow 모드 - PoseableMesh를 이용해 활 시위가 당겨지는 것 구현
 - 05.16 : Bow 모드 - 마우스 우클릭 이벤트에 따른 Aimming 구현 중
+- 05.17 : Bow 모드 - Aimming 동작시 카메라의 FOV(Field Of View)와 스프링암의 TargetArmLength, Offset을 조정해 확대 및 축소 
