@@ -20,3 +20,5 @@
 - 05.17 : Bow 모드 - Aimming 동작시 카메라의 FOV(Field Of View)와 스프링암의 TargetArmLength, Offset을 조정해 확대 및 축소 
 - 05.18 : Bow 모드 - Aimming 동작시 케릭터가 조준 애니메이션을 취하고 조준 상태에서 상하 조준 애니메이션을 AimOffset을 이용해
 - 05.19 : Bow 모드 애니메이션  
+- 05.20 : Bow 모드 구현 완료
+- 05.23 : AIController 및 Behavior-Tree
