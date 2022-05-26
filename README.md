@@ -22,3 +22,4 @@
 - 05.19 : Bow 모드 애니메이션  
 - 05.20 : Bow 모드 구현 완료
 - 05.23 : AIController 및 Behavior-Tree
+- 05.26 : AI_Melee 추격 B-Tree 세팅
