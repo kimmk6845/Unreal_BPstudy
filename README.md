@@ -23,3 +23,6 @@
 - 05.20 : Bow 모드 구현 완료
 - 05.23 : AIController 및 Behavior-Tree
 - 05.26 : AI_Melee 추격 B-Tree 세팅
+- 05.30 : AI Random 이동 구현 및 스플라인을 이용한 패트롤 경로 구현
+- 05.31 : 스플라인 패트롤 경로를 이용한 패트롤 구현
+- 06.02 : 원거리 AI - 일정 반경 내에 들어오면 FireBall 스킬 사용, EQS 구현 
